@@ -1,0 +1,12 @@
+/target
+
+# macOS
+.DS_Store
+
+# Claude Code (kept local)
+CLAUDE.md
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Benchmark raw output (large; commit summaries/scripts instead)
+/results/raw/
